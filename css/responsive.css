@@ -1,0 +1,244 @@
+@media (min-width:320px) and (max-width:575px) {
+    .navbar-toggler {
+        background-color: aliceblue;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    nav {
+        top: 20px;
+    }
+
+    nav ul {
+        background-color: black !important;
+        border: 1px solid #6A4DF4;
+    }
+
+    nav ul li {
+        text-align: center !important;
+        border-bottom: 1px solid #6A4DF4;
+    }
+
+    nav ul li:last-child {
+        border-bottom: none;
+    }
+
+    nav .custom_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    /* nav end */
+    #banner .overlay {
+        padding-top: 172px;
+        padding-bottom: 118px;
+    }
+
+    #banner .overlay .item-first h1 {
+        font-size: 37px;
+        width: auto;
+    }
+
+    #banner .overlay .item-second p {
+        width: auto;
+    }
+
+    .title p {
+        width: auto;
+    }
+
+    #service .item {
+        padding: ;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #service .item p {
+        width: auto;
+    }
+
+    #contact .title h2 {
+        font-size: 40px;
+        font-weight: 700;
+        color: #151515;
+    }
+
+    #contact .title p {
+        width: auto;
+    }
+
+    #contact .item-two {
+        margin-top: 68px;
+    }
+
+    #contact .item-two form .field input {
+        width: auto;
+    }
+
+    #contact .item-two form button {
+        width: 100%;
+    }
+}
+
+/* extra small Device end */
+@media (min-width:576px) and (max-width:767px) {
+    .navbar-toggler {
+        background-color: aliceblue;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    nav {
+        top: 20px;
+    }
+
+    nav ul {
+        background-color: black !important;
+        border: 1px solid #6A4DF4;
+    }
+
+    nav ul li {
+        text-align: center !important;
+        border-bottom: 1px solid #6A4DF4;
+    }
+
+    nav ul li:last-child {
+        border-bottom: none;
+    }
+
+    nav .custom_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    /* nav end */
+    #banner .overlay {
+        padding-top: 172px;
+        padding-bottom: 118px;
+    }
+
+    #banner .overlay .item-first h1 {
+        font-size: 37px;
+        width: auto;
+    }
+
+    #banner .overlay .item-second p {
+        width: auto;
+    }
+
+    .title p {
+        width: auto;
+    }
+
+    #service .item {
+        padding: ;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #service .item p {
+        width: auto;
+    }
+}
+
+/* small Device end */
+
+@media (min-width:768px) and (max-width:991px) {
+    .navbar-toggler {
+        background-color: aliceblue;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    nav {
+        top: 20px;
+    }
+
+    nav ul {
+        background-color: black !important;
+        border: 1px solid #6A4DF4;
+    }
+
+    nav ul li {
+        text-align: center !important;
+        border-bottom: 1px solid #6A4DF4;
+    }
+
+    nav ul li:last-child {
+        border-bottom: none;
+    }
+
+    nav .custom_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    /* nav end */
+    #banner .overlay {
+        padding-top: 172px;
+        padding-bottom: 118px;
+    }
+
+    #banner .overlay .item-first h1 {
+        font-size: 45px;
+        width: auto;
+    }
+
+    #banner .overlay .item-second p {
+        width: auto;
+    }
+
+    .title p {
+        width: auto;
+    }
+
+    #service .item {
+        padding: ;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #service .item p {
+        width: auto;
+    }
+}
+
+/* medium Device end */
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    nav .custom-column-gap {
+        column-gap: 40px;
+    }
+
+    nav {
+        top: 20px;
+    }
+
+
+    nav .custom_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    /* nav end */
+    #banner .overlay {
+        padding: 250px 0px;
+    }
+
+    #service .item {
+        padding: ;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #service .item p {
+        width: auto;
+    }
+}
